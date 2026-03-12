@@ -19,3 +19,49 @@ The target audience of my user experience are people who wish to read/are readin
 I plan to use a user experience prototyping software such as Figma or Adobe XD as they will allow me to create a working prototype of my user experience without needing to go through the trouble of learning how to create a website for it.
 
 ### Initial Brainstorming
+![Mindmap](./images/mindmap.png)
+
+Of the different branches on this mindmap, the most feasable and effective options would be Adobe XD and Figma as they 
+
+## Requirements Specification
+
+
+### Functional Requirements
+
+**Purpose of the Application**
+
+Describe what the app will do (e.g., "The app will allow users to explore book characters through interactive profiles").
+
+Explain whether the app is designed to promote the book or engage fans within its genre.
+
+**Use Cases**
+
+Identify at least four key user interactions (e.g., "Users will select a character to view their backstory" or "Users can participate in a genre-themed quiz").
+
+Include a brief user journey for each use case, explaining how users will navigate the app.
+
+**Test Cases**
+
+Outline expected behaviours of the user experience (e.g., "When the user selects 'Start Quiz,' the app will display the first question").
+
+Describe how you will test these features later (e.g., peer testing or self-testing).
+
+Provide at least four examples 
+
+### Non-Functional Requirements
+
+**Performance**
+
+Describe how the app will deliver smooth, responsive interactions (e.g., "Navigation between screens will occur within one second").
+
+**Usability**
+
+Identify design choices to make the app easy to use (e.g., consistent layout, accessible font sizes).
+
+**Reliability**
+
+Explain how they will ensure the app is consistent and bug-free (e.g., testing across different devices or screen sizes).
+
+**Security**
+
+Outline any privacy considerations if the app collects user data (e.g., login systems or user feedback forms).
