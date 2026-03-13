@@ -31,6 +31,7 @@ Of the different branches on this mindmap, the most feasable and effective optio
 **Purpose of the Application**
 
 Describe what the app will do (e.g., "The app will allow users to explore book characters through interactive profiles").
+My application will allow users to explore the setting of *1984* and to read information
 
 Explain whether the app is designed to promote the book or engage fans within its genre.
 
@@ -40,6 +41,9 @@ Identify at least four key user interactions (e.g., "Users will select a charact
 
 Include a brief user journey for each use case, explaining how users will navigate the app.
 
+1. User will click an area of the map to see more information.
+2. From an information page the user can click to go back to the map.
+
 **Test Cases**
 
 Outline expected behaviours of the user experience (e.g., "When the user selects 'Start Quiz,' the app will display the first question").
@@ -47,6 +51,10 @@ Outline expected behaviours of the user experience (e.g., "When the user selects
 Describe how you will test these features later (e.g., peer testing or self-testing).
 
 Provide at least four examples 
+
+1. When the user clicks on a region of the map, it will take the user to a page which provides more information about that region. This feature can be self-tested and peer tested to ensure it functions correctly.
+
+2. On the page with i
 
 ### Non-Functional Requirements
 
