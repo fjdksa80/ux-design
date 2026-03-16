@@ -43,6 +43,8 @@ Include a brief user journey for each use case, explaining how users will naviga
 
 1. User will click an area of the map to see more information.
 2. From an information page the user can click to go back to the map.
+3. User can click on any of the regions from the sidebar.
+4. 
 
 **Test Cases**
 
@@ -61,6 +63,8 @@ Provide at least four examples
 **Performance**
 
 Describe how the app will deliver smooth, responsive interactions (e.g., "Navigation between screens will occur within one second").
+
+Navigation of the user interface will happen 
 
 **Usability**
 
