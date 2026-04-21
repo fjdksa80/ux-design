@@ -21,7 +21,9 @@ I plan to use a user experience prototyping software such as Figma or Adobe XD a
 ### Initial Brainstorming
 ![Mindmap](./images/mindmap.png)
 
-Of the different branches on this mindmap, the most feasable and effective options would be Adobe XD and Figma as they 
+The design of my user interface should reflect the tone and themes presented in *1984* 
+
+Of the different options on this mindmap, the most feasable and effective options would be Adobe XD and Figma as they provide many of the tools needed to create an interactive user interface without requiring any kind of coding. Unity could work, but is more suited to making games, which might introduce some needless difficulty with what I want to create. Python is very versatile and could be used to achieve what I want, however it would be more difficult to create a visual user interface with.
 
 ## Requirements Specification
 
@@ -30,10 +32,7 @@ Of the different branches on this mindmap, the most feasable and effective optio
 
 **Purpose of the Application**
 
-Describe what the app will do (e.g., "The app will allow users to explore book characters through interactive profiles").
-My application will allow users to explore the setting of *1984* and to read information
-
-Explain whether the app is designed to promote the book or engage fans within its genre.
+My application will allow users to explore the setting of *1984* and to read information about various locations relevant to the story. It is intended to engage fans of the book by giving them a more thorough visual exploration of the setting.
 
 **Use Cases**
 
@@ -42,8 +41,8 @@ Identify at least four key user interactions (e.g., "Users will select a charact
 Include a brief user journey for each use case, explaining how users will navigate the app.
 
 1. User will click an area of the map to see more information.
-2. From an information page the user can click to go back to the map.
-3. User can click on any of the regions from the sidebar.
+2. User can alternatively click on any of the regions from the sidebar to visit the information page.
+3. From an information page the user can click to go back to the map
 4. 
 
 **Test Cases**
@@ -55,8 +54,9 @@ Describe how you will test these features later (e.g., peer testing or self-test
 Provide at least four examples 
 
 1. When the user clicks on a region of the map, it will take the user to a page which provides more information about that region. This feature can be self-tested and peer tested to ensure it functions correctly.
-
-2. On the page with i
+2. When the user clicks on a region in the sidebar, it will also take them to that region's information page. This feature can also be self-tested and peer tested to ensure it is intuitive and easy to use.
+3. When the user clicks the home button on an information page, it will take them back to the map. This can be self-tested and peer tested.
+4. 
 
 ### Non-Functional Requirements
 
@@ -64,16 +64,26 @@ Provide at least four examples
 
 Describe how the app will deliver smooth, responsive interactions (e.g., "Navigation between screens will occur within one second").
 
-Navigation of the user interface will happen 
+Navigating between screens should occur within one second with smooth transitions.
 
 **Usability**
 
 Identify design choices to make the app easy to use (e.g., consistent layout, accessible font sizes).
 
+My user interface will be tested to ensure the layout is as intuitive as possible
+
 **Reliability**
 
 Explain how they will ensure the app is consistent and bug-free (e.g., testing across different devices or screen sizes).
 
+My application will be made to suit multiple screen sizes and tested to ensure reliability across different devices.
+
 **Security**
 
 Outline any privacy considerations if the app collects user data (e.g., login systems or user feedback forms).
+
+My app has no need to collect any data from the user and therefore no privacy considerations need to be made.
+
+## Social, Ethical and Legal Issues
+
+### Social Impact
